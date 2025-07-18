@@ -3,7 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
-I’m **Toto** — doing a little bit of everything in cybersecurity until I *accidentally specialize* in something. <br>
+I’m **rayxcyber** — doing a little bit of everything in cybersecurity until I *accidentally specialize* in something. <br>
 
 This blog is where I document my adventures (and misadventures) across the cyber landscape. You’ll find a mix of:
 - **CTF & challenge writeups** — explained clearly, even if they weren’t solved cleanly
