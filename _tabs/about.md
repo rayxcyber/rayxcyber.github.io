@@ -19,10 +19,9 @@ I enjoy:
 
 If you’re in cybersecurity and somehow ended up here:
 - Yes, I can write proper documentation
-- No, I don’t talk like this in interviews. *Usually*.
+- No, I don’t talk like this in interviews.
 - And yes, I’m serious about getting better at this *every day*
 
-Smurf Cat is my spiritual mascot: slightly cursed, a little lost, but very committed to the bit.
 
 📚 Feel free to explore, learn, or judge my notes — they’re mostly here so future-me doesn’t suffer.
 
