@@ -307,6 +307,7 @@ Let's run the command 'deceptipot -h' for some info
 Let's look at the conf file, maybe it'll give us some info:-
 These were run as root so let's first navigate to root, (switching to root for convenience using sudo su)
 ![Deceptipot_readme](assets/img/tryhackme/Honeynetcollapse25/InitialAccessPot/deceptipot_readme.png)
+
 Interesting...
 ```bash
 root@deceptipot-demo:~/deceptipot# cat deceptipot.conf 
